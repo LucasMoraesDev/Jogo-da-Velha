@@ -1,4 +1,4 @@
-#Jogo da Velha para jogar com um amigo(a)
+# Jogo da Velha para jogar com um amigo(a)
 
 <a href="https://codepen.io/lucasmoraesdev/full/ExQbQRv" arget="_blank" >Jogue online!</a>
 
